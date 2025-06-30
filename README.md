@@ -71,6 +71,7 @@ Cambiando la posición se actualiza la imagen:
 ![image](https://github.com/user-attachments/assets/d33209f4-522c-4895-aa7a-ae3855b3a804)
 También vemos que se está publicando los datos de la imu:
 ![image](https://github.com/user-attachments/assets/9e035256-16fa-484c-a1b4-7fdcdfa0d66a)
+![image](https://github.com/user-attachments/assets/8f11d866-4c15-4ad3-b24d-651d9ce5b7cb)
 
 También podemos ver que el plugin de Movit para Rviz2 está bien configurado:
 Tanto los controles del gripper como el de la cadena cinemática del scara
